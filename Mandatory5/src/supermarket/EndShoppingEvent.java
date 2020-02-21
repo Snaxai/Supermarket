@@ -27,7 +27,7 @@ public class EndShoppingEvent extends Event {
     @Override
     public Event happen() {
         customer.leaveTime = customer.checkoutTime + customer.checkoutDuration;
-        return null;
+        return new BeginCheckoutEvent(customer);
     }
 
     @Override

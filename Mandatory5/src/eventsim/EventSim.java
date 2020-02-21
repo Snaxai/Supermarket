@@ -28,6 +28,7 @@ public class EventSim {
      * The "current" time
      */
     int clock;
+    int waittime;
     Random random;
 
 
@@ -91,6 +92,7 @@ public class EventSim {
             System.err.format("Current time: %d - Processing %s. Event queue:\n", clock, e.toString());
             for (Event qe : eventQueue)
                 System.err.println("    " + qe);
+            System.out.println("");
         }
     }
 }

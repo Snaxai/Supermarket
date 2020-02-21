@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7afea31d-2900-4307-8c7b-88c8992ece4b" name="Default Changelist" comment="" />
+    <list default="true" id="7afea31d-2900-4307-8c7b-88c8992ece4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermarket/BeginCheckoutEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supermarket/EndCheckoutEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandatory5/eventsim/EventSim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandatory5/eventsim/EventSim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandatory5/supermarket/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandatory5/supermarket/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mandatory5/supermarket/EndShoppingEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mandatory5/supermarket/EndShoppingEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eventsim/EventSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eventsim/EventSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermarket/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermarket/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermarket/EndShoppingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermarket/EndShoppingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/supermarket/SuperMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/supermarket/SuperMarket.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XyhFT1pLUClRxfAluiXBBHBbde" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -49,10 +74,25 @@
       <option name="presentableId" value="Default" />
       <updated>1582024137637</updated>
       <workItem from="1582024140534" duration="13244000" />
+      <workItem from="1582038082978" duration="1602000" />
+      <workItem from="1582278293248" duration="3994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

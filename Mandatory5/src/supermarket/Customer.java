@@ -28,6 +28,7 @@ public class Customer {
     String name;
 
 
+    int beginCheckoutTime;
     int beginShoppingTime;
     int shoppingDuration;
     int numProducts;
@@ -48,14 +49,13 @@ public class Customer {
         queueWaitDuration = 0;
         checkoutTime = queueWaitDuration + checkoutDuration;
         leaveTime = endShoppingTime + checkoutTime;
-
     }
 
    /* public void waitduration () {
         for(int i = 0; i < NUM_CUSTOMER; i++) {
-
+            if()
         }
-        if(EventSim.getInstance() ==  {
+        if()  {
 
         } else
             queueWaitDuration = 0;
